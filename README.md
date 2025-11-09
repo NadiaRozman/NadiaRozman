@@ -51,6 +51,27 @@ I explored:
 
 ---
 
+### 📊 Tableau Project: Sales Performance Dashboard (2013–2014)  
+ 
+🔗 [View on GitHub](https://github.com/NadiaRozman/Sales_Performance_Dashboard)  
+🔗 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/nadia.rozman/vizzes)  
+
+**Overview:**  
+Interactive Tableau dashboard analyzing **sales performance from 2013–2014**. This project demonstrates effective **data visualization, performance tracking, and business insight storytelling** using real sales data.  
+
+**Key Features:**  
+- 💹 Visualizes **monthly sales trends**, **discount bands**, and **regional performance**  
+- 📊 Provides **interactive filters** for in-depth analysis  
+- 🔍 Highlights key sales patterns, top-performing products, and seasonal variations  
+
+**Tools Used:**  
+- Tableau Desktop & Tableau Public  
+- Excel dataset for sales data  
+- Data preparation and exploration in Python/Excel  
+
+> “Transforming raw sales data into clear, actionable insights through interactive visualizations.”
+---
+
 ### 🏠 Tableau Project: Seattle Airbnb Data Analysis  
 🔗 [View on GitHub](https://github.com/NadiaRozman/Seattle_Airbnb_2016_Analysis)  
 🔗 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/nadia.rozman/vizzes)
