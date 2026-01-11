@@ -74,7 +74,7 @@ Interactive Tableau dashboard analyzing **sales performance from 2013–2014**. 
 
 ### 🏠 Tableau Project: Seattle Airbnb Data Analysis  
 🔗 [View on GitHub](https://github.com/NadiaRozman/Seattle_Airbnb_2016_Analysis)  
-🔗 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/nadia.rozman/vizzes)
+🔗 [View Dashboard on Tableau Public](https://public.tableau.com/views/Seattle_Airbnb_Analysis_2016_17620632318280/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **Overview:**  
 A Tableau dashboard exploring Airbnb pricing, property types, and occupancy trends in Seattle.  
