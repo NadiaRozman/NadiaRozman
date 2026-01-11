@@ -54,7 +54,7 @@ I explored:
 ### 📊 Tableau Project: Sales Performance Dashboard (2013–2014)  
  
 🔗 [View on GitHub](https://github.com/NadiaRozman/Sales_Performance_Dashboard)  
-🔗 [View Dashboard on Tableau Public]([https://public.tableau.com/app/profile/nadia.rozman/vizzes](https://public.tableau.com/views/SalesPerformanceDashboard-20132014/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))  
+🔗 [View Dashboard on Tableau Public](https://public.tableau.com/views/SalesPerformanceDashboard-20132014/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
 **Overview:**  
 Interactive Tableau dashboard analyzing **sales performance from 2013–2014**. This project demonstrates effective **data visualization, performance tracking, and business insight storytelling** using real sales data.  
