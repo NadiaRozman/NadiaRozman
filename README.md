@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nadia Rozman
 
 [![SQL](https://img.shields.io/badge/SQL-3476A6?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/NadiaRozman/SQL_Data_Analysis_Project)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/NadiaRozman)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/NadiaRozman/Python_Data_Analysis_Project)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-F3766E?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
@@ -11,21 +11,49 @@
 [![Neural Networks](https://img.shields.io/badge/Neural_Networks-6F42C1?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/NadiaRozman)
 [![Text Analytics](https://img.shields.io/badge/Text_Analytics-5A5A5A?style=for-the-badge&logo=apache%20lucene&logoColor=white)](https://github.com/NadiaRozman)
 
-🎓 **Clinical Research Professional | Data Analyst in Transition to Data Science**  
-💊 Experienced in medical and clinical research — now exploring how data and machine learning can drive better healthcare insights.
+📊 Data Analyst | Aspiring Data Scientist  
+💡 SQL • Python • Tableau • Machine Learning • Data Storytelling
 
 ---
 
 ## 🧭 About Me
 
-I have a strong foundation in **clinical and medical research**, where I’ve worked with study data, protocols, and analytical reports.  
-Today, I’m applying that evidence‑based mindset to **data science**, focusing on **data exploration**, **statistical analysis**, and **machine learning** to transform raw information into actionable insights.
+I am a data analyst with a strong foundation in analytical thinking, statistical reasoning, and structured problem-solving. I work with **SQL, Python, Excel, and Tableau** to explore data, uncover patterns, and communicate insights through clear visual storytelling.
 
-I use **SQL**, **Python**, **Excel**, and **Tableau** (as my primary visualization tool on macOS) for analysis, and I’m expanding into **machine learning** and **neural network modeling** to build predictive solutions.
+I bring a structured, evidence-based approach to data analysis, which strengthens my ability to handle complex datasets, maintain data quality, and translate findings into meaningful conclusions. I've expanded my technical skill set across **data analytics, machine learning, neural networks, and text analytics**, focusing on building end-to-end analytical workflows.
+
+I enjoy turning raw, messy data into insights that support smarter decisions—and I'm actively building projects that reflect real-world business and analytical challenges.
 
 ---
 
 ## 🧩 Featured Projects
+
+### 🐍 Python Project: Data Analyst Job Market Analysis  
+🔗 [View on GitHub](https://github.com/NadiaRozman/Python_Data_Analysis_Project)
+
+**Overview:**  
+A comprehensive Python-based analysis of the **US data analyst job market** using Pandas, Matplotlib, and Seaborn.  
+This project explores:  
+- 📊 **Skill demand across data roles** (Data Analyst, Data Engineer, Data Scientist)  
+- 📈 **Monthly skill trends** throughout 2024  
+- 💰 **Salary distributions** for different data positions  
+- ⚖️ **Optimal skills** balancing high demand with competitive pay  
+
+**Key Insights:**  
+- SQL appears in 48% of Data Analyst jobs and is fundamental across all data roles.  
+- Python commands ~$100K median salary while appearing in 32% of positions.  
+- Excel demand surges 60% from January to October, showing seasonal variations.  
+- Senior Data Scientists and Engineers earn $150K-$200K+ vs entry-level $75K-$125K.  
+- The optimal skill combination is **SQL + Python + Tableau/Power BI** for maximizing both opportunities and compensation.  
+
+**Tools Used:**  
+- Python (Pandas, Matplotlib, Seaborn)  
+- Jupyter Notebooks  
+- VS Code, Git & GitHub  
+
+> "Transforming job market data into career strategy through Python data analysis."
+
+---
 
 ### 💼 SQL Project: Data Analyst Job Market Exploration  
 🔗 [View on GitHub](https://github.com/NadiaRozman/SQL_Data_Analysis_Project)
@@ -39,15 +67,15 @@ I explored:
 
 **Key Insights:**  
 - SQL is the single most critical skill in the job market.  
-- Python and visualization tools (Tableau, Power BI) complement SQL perfectly.  
+- Python and visualization tools (Tableau, Power BI) complement SQL perfectly.  
 - Cloud & Big Data tools (Snowflake, PySpark, AWS) offer salary advantages.  
 - A balanced skill set of **SQL + Python + Visualization + Cloud** creates strong marketability.
 
 **Tools Used:**  
 - PostgreSQL, SQL  
-- VS Code, Git & GitHub  
+- VS Code, Git & GitHub  
 
-> “Turning job market data into career insights through the power of SQL.”
+> "Turning job market data into career insights through the power of SQL."
 
 ---
 
@@ -69,7 +97,8 @@ Interactive Tableau dashboard analyzing **sales performance from 2013–2014**. 
 - Excel dataset for sales data  
 - Data preparation and exploration in Python/Excel  
 
-> “Transforming raw sales data into clear, actionable insights through interactive visualizations.”
+> "Transforming raw sales data into clear, actionable insights through interactive visualizations."
+
 ---
 
 ### 🏠 Tableau Project: Seattle Airbnb Data Analysis  
@@ -95,9 +124,9 @@ This project demonstrates practical data visualization and storytelling using re
 **Neural Networks Focus:**  
 - Activation functions, forward & backward propagation  
 - Perceptron layers, model training & evaluation  
-- Frameworks: TensorFlow & Keras  
+- **Frameworks:** TensorFlow & Keras  
 - **Textual Data Preprocessing:** Tokenization, vectorization, embeddings for NN  
-- Practical projects: Iris Classification and exploring text data for NN  
+- **Practical projects:** Iris Classification and exploring text data for NN  
 
 **Goal:** Apply machine learning and neural network techniques to real-world datasets, build predictive models, and improve data-driven decision making.  
 
@@ -114,13 +143,15 @@ This project demonstrates practical data visualization and storytelling using re
 
 ## 🛠️ Tools & Skills
 
+| Analytical Foundations | Data Quality Control, Structured Analysis, Reporting |
+
 | Category              | Tools                                               |
 |------------------------|-----------------------------------------------------|
 | **Data Analysis**      | SQL, Python (NumPy, Pandas, Matplotlib, Seaborn), Excel |
 | **Visualization**      | Tableau                                              |
 | **Databases**          | PostgreSQL, MySQL                                    |
 | **Machine Learning**   | Scikit‑learn, TensorFlow, Keras                      |
-| **Research Expertise** | Clinical & Medical Research, Study Design, Data Reporting |
+| **Analytical Foundations** | Statistical Reasoning, Study Design, Data Reporting |
 | **Text Analytics**     | NLP Preprocessing, Vectorization, Embeddings        |
 
 ---
@@ -140,4 +171,4 @@ This project demonstrates practical data visualization and storytelling using re
 
 ---
 
-> “Bridging the gap between research and data science — one dataset at a time.” 💡
+> "Building insights from data through analytics and machine learning." 💡
