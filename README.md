@@ -1,4 +1,4 @@
-# Welcome, I’m Nadia ☺️
+# Hi, I’m Nadia! ☺️
 
 I’m a data enthusiast with hands-on experience in **Machine Learning, Data Analysis, and Data Visualization**.
 
@@ -7,6 +7,7 @@ My projects focus on applying data-driven methods to real-world problems using *
 ## 🔹 Featured Projects
 
 ### **ML Projects**
+- [**Bank Customer Churn Prediction (ANN)**](https://github.com/NadiaRozman/ANN_Bank_Customer_Churn_Prediction) – Developed an Artificial Neural Network to predict customer churn, improving retention strategy insights.
 - [**Vehicle Market Segmentation**](https://github.com/NadiaRozman/ML_Clustering_Vehicle_Market_Segmentation) – Applied K-Means & Hierarchical Clustering to segment vehicles based on specifications.
 - [**Startup Profit Prediction**](https://github.com/NadiaRozman/ML_Regression_Startup_Profit_Prediction) – Compared multiple regression models to predict startup profitability and extract actionable insights.
 - [**Drug Classification**](https://github.com/NadiaRozman/ML_Classification_Drug_Prediction) – Built and evaluated classification models for predicting drug effectiveness.
@@ -19,6 +20,6 @@ My projects focus on applying data-driven methods to real-world problems using *
 
 ## 🔹 Skills
 - **Languages & Tools:** Python, SQL, Tableau, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-- **Techniques:** Regression, Classification, Clustering, Data Cleaning, Data Visualization
+- **Techniques:** Regression, Classification, Clustering, Artificial Neural Networks, Data Cleaning, Data Visualization
 
 📌 Projects are fully reproducible with notebooks and environment files included. Explore my [repositories](https://github.com/NadiaRozman?tab=repositories) to see the full workflow.
