@@ -1,12 +1,13 @@
 # Hi, I’m Nadia! ☺️
 
-I’m a data enthusiast with hands-on experience in **Machine Learning, Data Analysis, and Data Visualization**.
+I’m a data enthusiast with hands-on experience in **Machine Learning, Deep Learning, Data Analysis, and Data Visualization**.
 
-My projects focus on applying data-driven methods to real-world problems using **Python, SQL, and Tableau**.
+My projects focus on applying data-driven methods to real-world problems using **Python, SQL, TensorFlow/Keras, and Tableau**.
 
 ## 🔹 Featured Projects
 
 ### **ML Projects**
+- [**Cat vs Dog CNN Image Classifier**](https://github.com/NadiaRozman/Cat-vs-Dog-CNN-Image-Classifier) – Built an end-to-end Convolutional Neural Network (CNN) with TensorFlow/Keras for binary image classification, including data preprocessing, augmentation, training, evaluation, and single-image prediction.
 - [**Bank Customer Churn Prediction (ANN)**](https://github.com/NadiaRozman/ANN_Bank_Customer_Churn_Prediction) – Developed an Artificial Neural Network to predict customer churn, improving retention strategy insights.
 - [**Vehicle Market Segmentation**](https://github.com/NadiaRozman/ML_Clustering_Vehicle_Market_Segmentation) – Applied K-Means & Hierarchical Clustering to segment vehicles based on specifications.
 - [**Startup Profit Prediction**](https://github.com/NadiaRozman/ML_Regression_Startup_Profit_Prediction) – Compared multiple regression models to predict startup profitability and extract actionable insights.
@@ -19,7 +20,7 @@ My projects focus on applying data-driven methods to real-world problems using *
 - [**Seattle Airbnb Analysis**](https://github.com/NadiaRozman/Tableau_Learning_Project_Seattle_Airbnb_2016) – Hands-on Tableau project analyzing Airbnb listings and pricing trends.
 
 ## 🔹 Skills
-- **Languages & Tools:** Python, SQL, Tableau, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-- **Techniques:** Regression, Classification, Clustering, Artificial Neural Networks, Data Cleaning, Data Visualization
+- **Languages & Tools:** Python, TensorFlow, Keras, SQL, Tableau, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- **Techniques:** Regression, Classification, Clustering, Artificial Neural Networks, Convolutional Neural Networks, Data Cleaning, Data Visualization
 
 📌 Projects are fully reproducible with notebooks and environment files included. Explore my [repositories](https://github.com/NadiaRozman?tab=repositories) to see the full workflow.
