@@ -1,12 +1,12 @@
 # Hi, I'm Nadia! ☺️
 
-I'm a data enthusiast with hands-on experience in **Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Analysis, and Data Visualization**.
+I'm a data enthusiast transitioning into data science, with a background spanning **clinical research, public health trials, and digital banking operations**. Across every role, data was always at the centre — and that consistency led me to deepen my technical skills in **Python, SQL, TensorFlow/Keras, NLP libraries, and Tableau**.
 
-My background is in clinical research, and I bring that domain knowledge directly into my data science projects — bridging healthcare expertise with rigorous analytical methods using **Python, SQL, TensorFlow/Keras, NLP libraries, and Tableau**.
+I'm passionate about turning raw data into actionable insights, and I build end-to-end projects that reflect real-world analytical workflows across healthcare and banking domains.
 
 ---
 
-## 🌟 Featured Project
+## 🌟 Featured Projects
 
 ### 🧬 [Clinical Trials Data Analysis — End-to-End Pipeline](https://github.com/NadiaRozman/Clinical_Trials_Analysis)
 
@@ -24,6 +24,27 @@ This is my most comprehensive project, combining my clinical research background
 **Key results:** Predicted clinical trial completion from registration metadata alone; SHAP explainability identified *phase* and *collaborator presence* as the strongest completion signals. NLP baseline (TF-IDF) achieved ROC-AUC of 0.69 from free-text summaries alone.
 
 **Tech:** `Python` · `XGBoost` · `SHAP` · `HuggingFace Transformers` · `Sentence Transformers` · `SQLite` · `Plotly` · `scikit-learn`
+
+---
+
+### 🏦 [Retail Banking Operations Analytics — End-to-End SQL Case Study](https://github.com/NadiaRozman/SQL_Banking_Operations_Analytics)
+
+> *End-to-end SQL case study on retail banking operations — customer segmentation, transaction analysis, complaint SLA performance, and an executive KPI scorecard. Built on a synthetic Malaysian banking dataset.*
+
+A business intelligence project demonstrating how SQL alone can power executive-grade analytics across a full retail banking operation:
+
+| Query File | Focus |
+|---|---|
+| 📋 Customer Segmentation | Segment distribution, age bands, tenure cohorts |
+| 💳 Transaction Analysis | Monthly trends, MoM change, channel mix, risk flags |
+| 📞 Complaints & SLA | SLA breach rates, CSAT scoring, customer risk scorecard |
+| 🔄 Cohort Retention | Cohort analysis, dormancy detection, Pareto analysis |
+| 📦 Product Performance | Adoption rates, complaint ratios, segment affinity |
+| 🏆 Executive Scorecard | 5-CTE composite KPI scorecard across all dimensions |
+
+**Key results:** Identified cross-sell opportunities in the Mass segment (55.5% of customers, avg 1.91 products); confirmed Pareto — top 20% of customers drive ~58% of transaction value; built a composite risk scorecard combining complaints, SLA exposure, and transaction failure rates.
+
+**Tech:** `SQL` · `SQLite` · `CTEs` · `Window Functions` · `Python` · `Pandas` · `Matplotlib` · `Seaborn`
 
 ---
 
